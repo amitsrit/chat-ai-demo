@@ -3,7 +3,7 @@ This demo and video is created by Amit Pandey.
 This is a Open AI chatbot created with React, Nodejs, OpenAi, and ChatGPT.
 
 See the Video Tutorial: <br />
-Video of demo is uploaded here - 
+Video of demo is uploaded here - https://drive.google.com/file/d/1dQub7fbJemI_4B89xwbhYEKHl8BFwNsM/view?usp=sharing
 
 ## Dependencies
 ### Backend
@@ -17,7 +17,7 @@ Video of demo is uploaded here -
 * [Vite](https://vitejs.dev/)
 
 ## Installation
-* Clone this repo `<Link will be after pushing the code to GIT hub>`
+* Clone this repo `https://github.com/amitsrit/chat-ai-demo`
 * Navigate into the repo `cd Chat-openai-demo`
 
 * Navigate into the `backend` folder `cd backend`
